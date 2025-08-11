@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chandra!
+# Hi there 👋, I'm Chandraprakash!
 
 Welcome to my GitHub profile! I'm a passionate developer and student interested in building innovative projects and learning new technologies.
 
@@ -7,30 +7,29 @@ Welcome to my GitHub profile! I'm a passionate developer and student interested 
 - 💻 Languages: Java, Python, C++, SQL
 - 🌐 Web: HTML, CSS, JavaScript, TailwindCSS
 - 🧠 Backend: Supabase, Firebase, Node.js
-- 🛠️ Tools: Git, GitHub, NetBeans, VS Code
-- 🗃️ Databases: Oracle, MySQL, PostgreSQL
+- 🛠️ Tools: Git, GitHub, NetBeans, VS Code, Lovable, Android Studio
+- 🗃️ Databases: Oracle, MySQL, Supabase, Firebase
 
 ## 🚀 Projects
 
 Here are some projects I’m working on or have completed:
 
-- 🏥 **Hospital Management System** – Java Swing + Oracle DB
-- 🛍️ **Smart Marketplace** – TailwindCSS + Supabase + JavaScript
-- ✈️ **Airline Database Queries** – SQL-based DBMS project
+- 🏥 **Hospital Management System** – Netbeans + Oracle DB
+- 🛍️ **Smart Marketplace - Agronova** – TailwindCSS + Supabase + JavaScript
+- ✈️ **visual Scrib** – lovable project (typescript + supabase)  
 - 🤖 **Algorithm Lab Programs** – DAA assignments (Stable Matching, Quicksort, Graph Algorithms)
 
 ## 📚 Currently Learning
 
 - Full Stack Web Development
 - Advanced SQL & PL/SQL
-- System Design Principles
-- DSA in Java
+- DSA in Java,CPP
+- App building in flutter
 
 ## 📫 How to reach me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📝 Portfolio (optional): [Your Portfolio URL]
+- 📧 Email: [dayanchand307@example.com]
+- 💼 LinkedIn: ([https://linkedin.com/in/](https://www.linkedin.com/in/chandraprakash-k-8707032a0/))
 
 ## 🏆 GitHub Stats
 
