@@ -25,6 +25,9 @@ Here are some projects I’m working on or have completed:
 - Advanced SQL & PL/SQL
 - DSA in Java,CPP
 - App building in flutter
+- React and express
+- Game Development in Unreal Engine and roblox
+
 
 ## 📫 How to reach me
 
